@@ -38,15 +38,17 @@ button {
     padding: 10px;
     margin-top: 10px;
     font-size: 16px;
-    background-color: #4caf50;
-    color: #fff;
+    background-color: #98ef83;
+    color: #000;
     border: none;
     border-radius: 4px;
     cursor: pointer;
+    text-align: center;
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #71ee5b;
+    color:white;
 }
 
 #result {
@@ -55,3 +57,38 @@ button:hover {
     text-align: center;
 }
 
+.deleteSemesterBtn
+{
+    background-color: #ff9789;
+    width:50%;
+    margin-left: 25%;
+    margin-top:0;
+    margin-bottom:20px;
+}
+
+.deleteSemesterBtn:hover
+{
+    background-color: #e96b5a;
+}
+
+.semesterCredits
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+#calculateBtn
+{
+    background-color: #58d2eb;
+}
+
+#calculateBtn:hover
+{
+    background-color: #41c2dc;
+}
+
+#addSemesterBtn
+{
+    width:50%;
+    margin-left: 25%;
+}
