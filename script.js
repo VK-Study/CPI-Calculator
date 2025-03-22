@@ -1,5 +1,5 @@
 // Define the number of credits for each semester
-var creditsPerSemester = [20, 22, 22, 22, 19, 21]; // Example: 20 credits per semester for 5 semesters
+var creditsPerSemester = [20, 22, 22, 22, 19, 21, 18]; // Example: 20 credits per semester for 5 semesters
 
 // Function to create input fields for a new semester
 function createSemesterInput() {
